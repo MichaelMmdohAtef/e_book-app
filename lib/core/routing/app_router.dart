@@ -2,7 +2,7 @@ import 'package:e_bookwebsitetest/core/routing/routes.dart';
 import 'package:e_bookwebsitetest/features/authentication/logic/cubit/cubit.dart';
 import 'package:e_bookwebsitetest/features/authentication/ui/login.dart';
 import 'package:e_bookwebsitetest/features/authentication/ui/register.dart';
-import 'package:e_bookwebsitetest/features/home/ui/home_screen.dart';
+import 'package:e_bookwebsitetest/features/AdminPanel/ui/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../di/dependency_injection.dart';
